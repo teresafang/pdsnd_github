@@ -4,7 +4,7 @@
 Created on 2/7/2022.
 
 ### Project Title
-Udacity Programming for Data Science Project 3: Bike Share
+Bike Share Project (Udacity Programming for Data Science)
 
 ### Description
 This project performs bike share data analysis for chicago, new york, and washington.
