@@ -10,7 +10,7 @@ Udacity Programming for Data Science Project 3: Bike Share
 This project performs bike share data analysis for chicago, new york, and washington.
 
 ### Files used
-Include the files used
+bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+No credits. 
