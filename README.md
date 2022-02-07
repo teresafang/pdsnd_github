@@ -10,7 +10,7 @@ Created on 2/7/2022.
 Bike Share Project (Udacity Programming for Data Science)
 
 ### Description
-This project performs bike share data analysis for chicago, new york, and washington.
+This project performs US bike share data analysis for the cities: chicago, new york, and washington.
 
 ### Files used
 bikeshare.py
