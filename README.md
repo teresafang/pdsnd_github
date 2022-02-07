@@ -4,10 +4,10 @@
 This project and README file was created on 2/7/2022.
 
 ### Project Title
-Replace the Project Title
+Udacity Programming for Data Science Project 3: Bike Share
 
 ### Description
-Describe what your project is about and what it does
+This project performs bike share data analysis for chicago, new york, and washington.
 
 ### Files used
 Include the files used
