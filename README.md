@@ -4,7 +4,7 @@
 Teresa Fang
 
 ### Date created
-Created on 2/7/2022.
+Created on 2/9/2022
 
 ### Project Title
 Bike Share Project (Udacity Programming for Data Science)
