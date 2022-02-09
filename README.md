@@ -9,6 +9,9 @@ Bike Share Project (Udacity Programming for Data Science)
 ### Description
 This project performs bike share data analysis for chicago, new york, and washington.
 
+### Project Purpose
+This project was created as part of Project 3 of the Programming for Data Science Nanodegree Course by Udacity.
+
 ### Files used
 bikeshare.py
 
